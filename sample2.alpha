@@ -1,0 +1,12 @@
+num a;
+decimal b;      
+text c;
+
+a = 10;
+b = 3.14;
+c = "HelloAlpha";
+
+show("Initial Values:");
+show(a);
+show(b);
+show(c);
